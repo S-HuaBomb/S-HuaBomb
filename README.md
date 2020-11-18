@@ -66,4 +66,4 @@ Here are some ideas to get you started:
 <a href="huabangs@foxmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-huabangs@foxmail.com-FFFF00?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ Here [S-HuaBomb](https://github.com/S-HuaBomb)
+⭐️ From [AVS1508](https://github.com/AVS1508)
