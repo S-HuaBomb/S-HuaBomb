@@ -57,8 +57,8 @@ Here are some ideas to get you started:
 <br/>
 
 <a href="https://github.com/S-HuaBomb">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=S-HuaBomb&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-HuaBomb&theme=buefy&layout=compact" />
+  <img height="180em" width="47%" src="https://github-readme-stats.vercel.app/api?username=S-HuaBomb&theme=buefy&show_icons=true" />
+  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-HuaBomb&theme=buefy&layout=compact" />
 </a>
 
 <br/>
