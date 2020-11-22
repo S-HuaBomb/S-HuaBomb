@@ -56,10 +56,14 @@ Here are some ideas to get you started:
 
 <br/>
 
-<a href="https://github.com/S-HuaBomb">
-  <img height="180em" width="47%" src="https://github-readme-stats.vercel.app/api?username=S-HuaBomb&theme=buefy&show_icons=true" />
-  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-HuaBomb&theme=buefy&layout=compact" />
-</a>
+<div>
+<img width="47%" src="https://github-readme-stats.vercel.app/api?username=S-HuaBomb&theme=flag-india&show_icons=true" />
+<img width="46%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-HuaBomb&layout=compact&theme=flag-india&hide=html,java" />
+</div>
+
+<!-- 仓库卡片
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=S-HuaBomb&repo=pytorch-in-flask)](https://github.com/S-HuaBomb/S-HuaBomb)
+-->
 
 <br/>
 
@@ -70,4 +74,4 @@ Here are some ideas to get you started:
 <a href="huabangs@foxmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-huabangs@foxmail.com-FFFF00?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [AVS1508](https://github.com/AVS1508)
+⭐️ From [AVS1508](https://github.com/AVS1508) and [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
