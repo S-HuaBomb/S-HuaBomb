@@ -58,8 +58,10 @@ Here are some ideas to get you started:
 <br/>
 
 <div>
-<img width="47%" src="https://github-readme-stats-shb.vercel.app/api?username=S-HuaBomb&theme=flag-india&show_icons=true" />
-<img width="46%" align="right" src="https://github-readme-stats-shb.vercel.app/api/top-langs/?username=S-HuaBomb&layout=compact&theme=flag-india&hide=html,java" />
+  <a href="https://github.com/S-HuaBomb/S-HuaBomb">
+    <img width="47%" src="https://github-readme-stats-shb.vercel.app/api?username=S-HuaBomb&theme=flag-india&show_icons=true" />
+    <img width="46%" align="right" src="https://github-readme-stats-shb.vercel.app/api/top-langs/?username=S-HuaBomb&layout=compact&theme=flag-india&hide=html,java" />
+  </a>
 </div>
 
 <!-- 仓库卡片
