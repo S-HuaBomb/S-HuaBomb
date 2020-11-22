@@ -19,12 +19,13 @@ Here are some ideas to get you started:
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; Studying Computer Science and application of Deep Learning at Guangxi University.
-- 🌱 &nbsp; Learning more about DL-based medical image registration and other Artificial Intelligence.
-- 💻 &nbsp; Web development and Blog Writing as hobbies/side hustles.
-- ✍️ &nbsp; Be a researcher who can tell stories.
-- 🤔 &nbsp; Difficult, not impossible.
-- 👯 &nbsp; I study with some nice friends including a nice tutor.
+- 🎓 &nbsp; Studying Computer Science and Application of Deep Learning at Guangxi University.
+- 🌱 &nbsp; Learning more about DL-Based medical Image Registration and other Artificial Intelligence.
+- 💻 &nbsp; Web Development and Blog Writing as hobbies/side hustles.
+- ✍️ &nbsp; Be a Researcher who can Tell Stories.
+- 🤔 &nbsp; Difficult, Not Impossible.
+- 👯 &nbsp; I Study with some Nice Friends including a Nice Tutor.
+- 💬 &nbsp; Ask me about anything [Here](https://github.com/S-HuaBomb/S-HuaBomb/issues)
 
 <img width="30%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
