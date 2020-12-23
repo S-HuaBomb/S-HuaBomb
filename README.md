@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - 👯 &nbsp; I Study with some Nice Friends including a Nice Tutor.
 - 💬 &nbsp; Ask me about anything [Here](https://github.com/S-HuaBomb/S-HuaBomb/issues)
 
-<img width="30%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+<img width="30%" align="right" alt="Github" src="https://img-blog.csdnimg.cn/2020122313515661.gif" />
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
