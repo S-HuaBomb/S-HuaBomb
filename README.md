@@ -34,18 +34,18 @@ Here are some ideas to get you started:
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-yellow?style=flat&logo=python)
   ![Go](https://img.shields.io/badge/-Go-FFFFF0?style=flat&logo=Go&logoColor=007396)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-FF1493?style=flat&logo=javascript)
 - 🤖 &nbsp;
   ![PyTorch](https://img.shields.io/badge/-PyTorch-brightgreen?style=flat&logo=pytorch)
   ![TensorFlow](https://img.shields.io/badge/-TensorFlow-yellowgreen?style=flat&logo=tensorflow)
 - 🌐 &nbsp;
   ![Flask](https://img.shields.io/badge/-Flask-red?style=flat&logo=flask)
-  ![Vue](https://img.shields.io/badge/-Vue-green?style=flat&logo=vue)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-ff69b4?style=flat&logo=javascript)
+  ![Django](https://img.shields.io/badge/-Django-darkgreen?style=flat&logo=django)
+  ![Vue](https://img.shields.io/badge/-Vue-white?style=flat&logo=vue.js)
   ![Element-UI](https://img.shields.io/badge/-ElementUI-blue?style=flat&logo=element&logoColor=563D7C)
 - 🛢 &nbsp;&nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-yellowgreen?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-9cf?style=flat&logo=mongodb)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-FFD700?style=flat&logo=PostgreSQL)
+  ![Redis](https://img.shields.io/badge/-Redis-white?style=flat&logo=redis)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-yellow?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-808000?style=flat&logo=github)
@@ -78,3 +78,4 @@ Here are some ideas to get you started:
 </p>
 
 ⭐️ From [AVS1508](https://github.com/AVS1508) and [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
+:1st_place_medal: Tech stack' logo From [Shields](https://shields.io/) and colors chose from [RGB](https://www.sioe.cn/yingyong/yanse-rgb-16/)
