@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 <a href="https://blog.csdn.net/Run_Bomb"><img alt="CSDN Blog" src="https://img.shields.io/badge/CSDNBlog-blog.csdn.net/Run_Bomb-7FFF00?style=flat-square&logo=microsoft-edge"></a>
-<a href="huabangs@foxmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-huabangs@foxmail.com-FFFF00?style=flat-square&logo=gmail"></a>
+<a href="#"><img alt="Email" src="https://img.shields.io/badge/Email-huabangs@foxmail.com-FFFF00?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [AVS1508](https://github.com/AVS1508) and [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
