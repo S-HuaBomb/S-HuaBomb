@@ -78,4 +78,4 @@ Here are some ideas to get you started:
 </p>
 
 ⭐️ From [AVS1508](https://github.com/AVS1508) and [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
-:1st_place_medal: Tech stack' logo From [Shields](https://shields.io/) and colors chose from [RGB](https://www.sioe.cn/yingyong/yanse-rgb-16/)
+:1st_place_medal: Tech stack' logo From [Shields](https://shields.io/) and colors chose from [RGB](https://www.sioe.cn/yingyong/yanse-rgb-16/) and emojis are from [emoji-list](https://github.com/caiyongji/emoji-list)
