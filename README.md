@@ -37,7 +37,7 @@ Here are some ideas to get you started:
   ![JavaScript](https://img.shields.io/badge/-JavaScript-FF1493?style=flat&logo=javascript)
 - 🤖 &nbsp;
   ![PyTorch](https://img.shields.io/badge/-PyTorch-brightgreen?style=flat&logo=pytorch)
-  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-yellowgreen?style=flat&logo=tensorflow)
+  ![Numpy](https://img.shields.io/badge/-Numpy-yellowgreen?style=flat&logo=numpy)
 - 🌐 &nbsp;
   ![Flask](https://img.shields.io/badge/-Flask-red?style=flat&logo=flask)
   ![Django](https://img.shields.io/badge/-Django-darkgreen?style=flat&logo=django)
