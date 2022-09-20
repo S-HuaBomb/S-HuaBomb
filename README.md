@@ -22,9 +22,6 @@ Here are some ideas to get you started:
 - 🎓 &nbsp; Studying Computer Science and Application of Deep Learning at Guangxi University.
 - 🌱 &nbsp; Learning more about DL-Based medical Image Registration and other Artificial Intelligence.
 - 💻 &nbsp; Web Development and Blog Writing as hobbies/side hustles.
-- ✍️ &nbsp; Be a Researcher who can Tell Stories.
-- 🤔 &nbsp; Difficult, Not Impossible.
-- 👯 &nbsp; I Study with some Nice Friends including a Nice Tutor.
 - 💬 &nbsp; Ask me about anything [Here](https://github.com/S-HuaBomb/S-HuaBomb/issues)
 
 <img width="30%" align="right" alt="Github" src="https://img-blog.csdnimg.cn/2020122313515661.gif" />
