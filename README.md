@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-yellow?style=flat&logo=python)
-  ![Go](https://img.shields.io/badge/-Go-FFFFF0?style=flat&logo=Go&logoColor=007396)
+  ![Java](https://img.shields.io/badge/-Java-FFFFF0?style=flat&logo=java&logoColor=007396)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-FF1493?style=flat&logo=javascript)
 - 🤖 &nbsp;
   ![PyTorch](https://img.shields.io/badge/-PyTorch-brightgreen?style=flat&logo=pytorch)
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
   ![Flask](https://img.shields.io/badge/-Flask-red?style=flat&logo=flask)
   ![Django](https://img.shields.io/badge/-Django-darkgreen?style=flat&logo=django)
   ![Vue](https://img.shields.io/badge/-Vue-white?style=flat&logo=vue.js)
-  ![Element-UI](https://img.shields.io/badge/-ElementUI-blue?style=flat&logo=element&logoColor=563D7C)
+  ![Spring-Boot](https://img.shields.io/badge/-SpringBoot-green?style=flat&logo=spring&logoColor=563D7C)
 - 🛢 &nbsp;&nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-yellowgreen?style=flat&logo=mysql)
   ![Redis](https://img.shields.io/badge/-Redis-white?style=flat&logo=redis)
@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-3CB371?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![PyCharm](https://img.shields.io/badge/-PyCharm-228B22?style=flat&logo=PyCharm)
-  ![GoLand](https://img.shields.io/badge/-GoLand-DA70D6?style=flat&logo=GoLand&logoColor=2C2255)
+  ![IDEA](https://img.shields.io/badge/-IDEA-DA70D6?style=flat&logo=idea&logoColor=2C2255)
 
 <br/>
 
